@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "smgalaxy",
+      "repo": "https://github.com/balazs-kokai/android_kernel_samsung_jf",
+      "branch": "opt-cm-19.1",
+      "device": "jfltexx",
+      "defconfig": "jdc_jf_defconfig"
     },
     "toolchains": [
       {
