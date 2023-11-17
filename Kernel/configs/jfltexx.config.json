@@ -35,7 +35,7 @@
     ],
     "enableCcache": true,
     "params": {
-      "ARCH": "arm64",
+      "ARCH": "arm",
       "CC": "clang",
       "externalCommands": {
         "CLANG_TRIPLE": "aarch64-linux-gnu-",
